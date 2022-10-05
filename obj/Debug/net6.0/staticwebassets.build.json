@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p4wyZuFdZvNZMxxcCdtaQ6JfEuAVmX2pe79wDiqwQnw=",
+  "Source": "dotnet-lecture",
+  "BasePath": "_content/dotnet-lecture",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
